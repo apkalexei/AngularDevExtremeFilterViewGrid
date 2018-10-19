@@ -1,0 +1,2 @@
+# AngularDevExtremeFilterViewGrid
+Created with CodeSandbox
